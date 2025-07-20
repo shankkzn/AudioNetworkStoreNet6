@@ -1,0 +1,14 @@
+C:\Users\Vladimir\source\repos\AudioNetworkStoreNet6\AudioNetworkStoreNet6\bin\Debug\net6.0\AudioNetworkStoreNet6.exe
+C:\Users\Vladimir\source\repos\AudioNetworkStoreNet6\AudioNetworkStoreNet6\bin\Debug\net6.0\AudioNetworkStoreNet6.deps.json
+C:\Users\Vladimir\source\repos\AudioNetworkStoreNet6\AudioNetworkStoreNet6\bin\Debug\net6.0\AudioNetworkStoreNet6.runtimeconfig.json
+C:\Users\Vladimir\source\repos\AudioNetworkStoreNet6\AudioNetworkStoreNet6\bin\Debug\net6.0\AudioNetworkStoreNet6.dll
+C:\Users\Vladimir\source\repos\AudioNetworkStoreNet6\AudioNetworkStoreNet6\bin\Debug\net6.0\AudioNetworkStoreNet6.pdb
+C:\Users\Vladimir\source\repos\AudioNetworkStoreNet6\AudioNetworkStoreNet6\obj\Debug\net6.0\AudioNetworkStoreNet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir\source\repos\AudioNetworkStoreNet6\AudioNetworkStoreNet6\obj\Debug\net6.0\AudioNetworkStoreNet6.AssemblyInfoInputs.cache
+C:\Users\Vladimir\source\repos\AudioNetworkStoreNet6\AudioNetworkStoreNet6\obj\Debug\net6.0\AudioNetworkStoreNet6.AssemblyInfo.cs
+C:\Users\Vladimir\source\repos\AudioNetworkStoreNet6\AudioNetworkStoreNet6\obj\Debug\net6.0\AudioNetworkStoreNet6.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\AudioNetworkStoreNet6\AudioNetworkStoreNet6\obj\Debug\net6.0\AudioNetworkStoreNet6.dll
+C:\Users\Vladimir\source\repos\AudioNetworkStoreNet6\AudioNetworkStoreNet6\obj\Debug\net6.0\refint\AudioNetworkStoreNet6.dll
+C:\Users\Vladimir\source\repos\AudioNetworkStoreNet6\AudioNetworkStoreNet6\obj\Debug\net6.0\AudioNetworkStoreNet6.pdb
+C:\Users\Vladimir\source\repos\AudioNetworkStoreNet6\AudioNetworkStoreNet6\obj\Debug\net6.0\AudioNetworkStoreNet6.genruntimeconfig.cache
+C:\Users\Vladimir\source\repos\AudioNetworkStoreNet6\AudioNetworkStoreNet6\obj\Debug\net6.0\ref\AudioNetworkStoreNet6.dll

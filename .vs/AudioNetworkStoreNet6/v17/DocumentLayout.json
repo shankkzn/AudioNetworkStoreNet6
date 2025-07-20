@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vladimir\\source\\repos\\AudioNetworkStoreNet6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78F2BB0D-3926-4B5B-9253-E57E965F7368}|AudioNetworkStoreNet6\\AudioNetworkStoreNet6.csproj|c:\\users\\vladimir\\source\\repos\\audionetworkstorenet6\\audionetworkstorenet6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F2BB0D-3926-4B5B-9253-E57E965F7368}|AudioNetworkStoreNet6\\AudioNetworkStoreNet6.csproj|solutionrelative:audionetworkstorenet6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F2BB0D-3926-4B5B-9253-E57E965F7368}|AudioNetworkStoreNet6\\AudioNetworkStoreNet6.csproj|c:\\users\\vladimir\\source\\repos\\audionetworkstorenet6\\audionetworkstorenet6\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F2BB0D-3926-4B5B-9253-E57E965F7368}|AudioNetworkStoreNet6\\AudioNetworkStoreNet6.csproj|solutionrelative:audionetworkstorenet6\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F2BB0D-3926-4B5B-9253-E57E965F7368}|AudioNetworkStoreNet6\\AudioNetworkStoreNet6.csproj|c:\\users\\vladimir\\source\\repos\\audionetworkstorenet6\\audionetworkstorenet6\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F2BB0D-3926-4B5B-9253-E57E965F7368}|AudioNetworkStoreNet6\\AudioNetworkStoreNet6.csproj|solutionrelative:audionetworkstorenet6\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F2BB0D-3926-4B5B-9253-E57E965F7368}|AudioNetworkStoreNet6\\AudioNetworkStoreNet6.csproj|c:\\users\\vladimir\\source\\repos\\audionetworkstorenet6\\audionetworkstorenet6\\mp4players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F2BB0D-3926-4B5B-9253-E57E965F7368}|AudioNetworkStoreNet6\\AudioNetworkStoreNet6.csproj|solutionrelative:audionetworkstorenet6\\mp4players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F2BB0D-3926-4B5B-9253-E57E965F7368}|AudioNetworkStoreNet6\\AudioNetworkStoreNet6.csproj|c:\\users\\vladimir\\source\\repos\\audionetworkstorenet6\\audionetworkstorenet6\\wirelessheadphones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F2BB0D-3926-4B5B-9253-E57E965F7368}|AudioNetworkStoreNet6\\AudioNetworkStoreNet6.csproj|solutionrelative:audionetworkstorenet6\\wirelessheadphones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F2BB0D-3926-4B5B-9253-E57E965F7368}|AudioNetworkStoreNet6\\AudioNetworkStoreNet6.csproj|c:\\users\\vladimir\\source\\repos\\audionetworkstorenet6\\audionetworkstorenet6\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F2BB0D-3926-4B5B-9253-E57E965F7368}|AudioNetworkStoreNet6\\AudioNetworkStoreNet6.csproj|solutionrelative:audionetworkstorenet6\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F2BB0D-3926-4B5B-9253-E57E965F7368}|AudioNetworkStoreNet6\\AudioNetworkStoreNet6.csproj|c:\\users\\vladimir\\source\\repos\\audionetworkstorenet6\\audionetworkstorenet6\\mp3players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F2BB0D-3926-4B5B-9253-E57E965F7368}|AudioNetworkStoreNet6\\AudioNetworkStoreNet6.csproj|solutionrelative:audionetworkstorenet6\\mp3players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir\\source\\repos\\AudioNetworkStoreNet6\\AudioNetworkStoreNet6\\Program.cs",
+              "RelativeDocumentMoniker": "AudioNetworkStoreNet6\\Program.cs",
+              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\AudioNetworkStoreNet6\\AudioNetworkStoreNet6\\Program.cs",
+              "RelativeToolTip": "AudioNetworkStoreNet6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:57:50.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir\\source\\repos\\AudioNetworkStoreNet6\\AudioNetworkStoreNet6\\Product.cs",
+              "RelativeDocumentMoniker": "AudioNetworkStoreNet6\\Product.cs",
+              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\AudioNetworkStoreNet6\\AudioNetworkStoreNet6\\Product.cs",
+              "RelativeToolTip": "AudioNetworkStoreNet6\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:57:32.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir\\source\\repos\\AudioNetworkStoreNet6\\AudioNetworkStoreNet6\\Store.cs",
+              "RelativeDocumentMoniker": "AudioNetworkStoreNet6\\Store.cs",
+              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\AudioNetworkStoreNet6\\AudioNetworkStoreNet6\\Store.cs",
+              "RelativeToolTip": "AudioNetworkStoreNet6\\Store.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:57:17.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Network.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir\\source\\repos\\AudioNetworkStoreNet6\\AudioNetworkStoreNet6\\Network.cs",
+              "RelativeDocumentMoniker": "AudioNetworkStoreNet6\\Network.cs",
+              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\AudioNetworkStoreNet6\\AudioNetworkStoreNet6\\Network.cs",
+              "RelativeToolTip": "AudioNetworkStoreNet6\\Network.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:56:46.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WirelessHeadphones.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir\\source\\repos\\AudioNetworkStoreNet6\\AudioNetworkStoreNet6\\WirelessHeadphones.cs",
+              "RelativeDocumentMoniker": "AudioNetworkStoreNet6\\WirelessHeadphones.cs",
+              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\AudioNetworkStoreNet6\\AudioNetworkStoreNet6\\WirelessHeadphones.cs",
+              "RelativeToolTip": "AudioNetworkStoreNet6\\WirelessHeadphones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:56:24.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mp4Players.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir\\source\\repos\\AudioNetworkStoreNet6\\AudioNetworkStoreNet6\\Mp4Players.cs",
+              "RelativeDocumentMoniker": "AudioNetworkStoreNet6\\Mp4Players.cs",
+              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\AudioNetworkStoreNet6\\AudioNetworkStoreNet6\\Mp4Players.cs",
+              "RelativeToolTip": "AudioNetworkStoreNet6\\Mp4Players.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:55:58.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mp3Players.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir\\source\\repos\\AudioNetworkStoreNet6\\AudioNetworkStoreNet6\\Mp3Players.cs",
+              "RelativeDocumentMoniker": "AudioNetworkStoreNet6\\Mp3Players.cs",
+              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\AudioNetworkStoreNet6\\AudioNetworkStoreNet6\\Mp3Players.cs",
+              "RelativeToolTip": "AudioNetworkStoreNet6\\Mp3Players.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:55:38.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
