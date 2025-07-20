@@ -89,6 +89,6 @@ This project is licensed under the MIT License. See [LICENSE](./LICENSE) for det
 .NET Developer | Israel  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/vladimir-molochkovetsky-67670aab/)  
-🔗 [GitHub](https://github.com/your-username)
+🔗 [GitHub](https://github.com/shankkzn)
 
 ---
